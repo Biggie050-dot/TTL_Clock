@@ -87,9 +87,7 @@ The cost estimation was based on the final ordered components and PCB production
 ```text
 TTL_clock/
 │
-├── docs/
 ├── images/
-├── schematic/
 ├── pcb/
 ├── bom/
 └── planning/
