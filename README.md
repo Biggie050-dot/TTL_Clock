@@ -88,8 +88,9 @@ The cost estimation was based on the final ordered components and PCB production
 TTL_clock/
 │
 ├── images/
-├── pcb/
-├── bom/
+├── PCB/
+├── BOM/
+├── STL-files
 └── planning/
 ```
 
