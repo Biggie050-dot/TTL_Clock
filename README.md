@@ -91,6 +91,7 @@ TTL_clock/
 ├── PCB/
 ├── BOM/
 ├── STL-files
+├── presentation
 └── planning/
 ```
 
